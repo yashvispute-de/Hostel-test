@@ -1,0 +1,42 @@
+{
+  "_howToUse": [
+    "Contact details and Impressum text. Like images.json this is read by the browser",
+    "at runtime, so edits take effect on reload - no rebuild, no code change.",
+    "",
+    "IMPORTANT: the fields marked BITTE AUSFUELLEN below are legally required in an",
+    "Impressum and are currently placeholders. Fill them in before the site goes",
+    "public. See section 6 of README.md."
+  ],
+
+  "contact": {
+    "email": "stefan.wohlrab@wohlrab-landeck.de",
+    "whatsappNumber": "491719202295",
+    "whatsappDisplay": "+49 171 9202295",
+    "phoneDisplay": "+49 171 9202295"
+  },
+
+  "impressum": {
+    "headingDe": "Impressum",
+    "sectionProviderDe": "Angaben gemäß § 5 DDG",
+    "operatorName": "Stefan Wohlrab",
+    "operatorLegalForm": "",
+    "street": "BITTE AUSFÜLLEN — Straße und Hausnummer",
+    "postcodeCity": "BITTE AUSFÜLLEN — PLZ und Ort",
+    "country": "Deutschland",
+
+    "email": "stefan.wohlrab@wohlrab-landeck.de",
+    "phone": "+49 171 9202295",
+
+    "registerCourt": "",
+    "registerNumber": "",
+    "vatId": "",
+    "supervisoryAuthority": "",
+
+    "contentResponsibleName": "Stefan Wohlrab",
+    "contentResponsibleAddressSameAsAbove": true,
+
+    "disputeResolutionDe": "Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.",
+
+    "propertyNote": "Am Finkenborn 3, 38855 Wernigerode-Charlottenlust"
+  }
+}
